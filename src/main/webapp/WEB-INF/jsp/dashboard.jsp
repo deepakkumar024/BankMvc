@@ -83,13 +83,13 @@ input[type=number] {
 
 <nav
 		class="navbar navbar-expand-sm bg-secondary navbar-dark justify-content-between">
-		<div class="navbar-brand active nav-link text-white"><h3><i>Peoples Bank</i></h3></div>
+		<div class="navbar-brand active nav-link text-white"><h3><i>Cognizant Bank</i></h3></div>
 		<div class="form-inline">
 			<a class="btn btn-outline-light my-2 my-sm-0" href="/logout">Logout</a>&nbsp;&nbsp;
 		</div>
 	</nav>
 	<br>
-		<h1 align="center">Welcome to Peoples' Bank</h1>
+		<h1 align="center">Welcome to Cognizant Bank</h1>
 	
 	<div class="container-ls row">
 
